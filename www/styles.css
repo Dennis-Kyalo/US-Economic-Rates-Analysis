@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Katibeh&display=swap");
+
+h1 {
+    font-family: "Katibeh", "Times New Roman";
+}
+
+
+element.style {
+    position: relative;
+    width: 900px;
+    height: 500px;
+}
+
+.shiny-text-output{
+    word-wrap: normal;
+    font-size: smaller;
+    font-family: "Times New Roman";
+}
+
+#header_1{
+    font-size: medium;
+}
+
+#header_2{
+    font-size: medium;
+}
+
+#header_3{
+    font-size: medium;
+}
